@@ -1,0 +1,58 @@
+.orange {
+    color: orange;
+}
+
+.flexible {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.flexible img {
+    width: 100%;
+}
+
+.btn {
+    background-image: linear-gradient(orangered, salmon);
+    color: white;
+    border: 20px solid white;
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.half-width {
+    width: 50%;
+    padding: 3%;
+}
+
+.center {
+    text-align: center;
+}
+
+h2 {
+    font-size: 50px;
+    color: black;
+}
+
+.mission {
+    background-color: aquamarine;
+}
+
+.vission {
+    background-color: antiquewhite;
+}
+
+.goal {
+    background-color: burlywood;
+}
+
+.half {
+    width: 30%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;
+    margin: 20px 20px;
+    border-radius: 20px;
+}
